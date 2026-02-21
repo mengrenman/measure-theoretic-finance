@@ -12,3 +12,5 @@ __pycache__/
 # Virtual environments
 venv/
 .env
+# Editor/backup files
+*~
